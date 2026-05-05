@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://443.cloudjf.com.br/$1"
+    }
+  ]
+}
